@@ -1,0 +1,27 @@
+colors:
+  name: Monoblend
+  author: Juraj Lieskovský
+  primary:
+    background: "#272822"
+    foreground: "#f8f8f2"
+  cursor:
+    text: "#272822"
+    cursor: "#f8f8f2"
+  normal:
+    black: "#272822"
+    red: "#f92672"
+    green: "#a6e22e"
+    yellow: "#f4bf75"
+    blue: "#66d9ef"
+    magenta: "#ae81ff"
+    cyan: "#a1efe4"
+    white: "#f8f8f2"
+  bright:
+    black: "#555449"
+    red: "#F84A81"
+    green: "#C1F069"
+    yellow: "#F6C686"
+    blue: "#88DAEA"
+    magenta: "#BB90F5"
+    cyan: "#BBEFE7"
+    white: "#f9f8f5"
